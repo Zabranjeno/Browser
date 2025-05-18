@@ -1,0 +1,8 @@
+<Window x:Class="XAI.Browser.Browser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="XAI Browser" Width="1200" Height="800">
+    <Grid>
+        <!-- UI is constructed programmatically in Program.cs -->
+    </Grid>
+</Window>
